@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home" android:id="@+id/nav_home" android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:title="Donate" android:id="@+id/nav_donate" android:icon="@drawable/ic_baseline_enhanced_encryption_24" />
+    <item android:title="Visit" android:id="@+id/nav_visit" android:icon="@drawable/ic_baseline_supervisor_account_24"/>
+    <item android:title="Account" android:id="@+id/na_acc" android:icon="@drawable/ic_baseline_account_circle_24"/>
+</menu>

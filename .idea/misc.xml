@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1365" />
+        <entry key="app/src/main/res/drawable/btnshape.xml" value="0.246" />
+        <entry key="app/src/main/res/drawable/custom__input.xml" value="0.2595" />
+        <entry key="app/src/main/res/drawable/donate.xml" value="0.1625" />
+        <entry key="app/src/main/res/drawable/editshape.xml" value="0.1365" />
+        <entry key="app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2595" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1365" />
+        <entry key="app/src/main/res/drawable/item_selector.xml" value="0.1625" />
+        <entry key="app/src/main/res/drawable/rounded_corner.xml" value="0.1625" />
+        <entry key="app/src/main/res/layout/activity_adoptkids.xml" value="0.20863616930312098" />
+        <entry key="app/src/main/res/layout/activity_donor.xml" value="0.19709277469003847" />
+        <entry key="app/src/main/res/layout/activity_forgotpassword.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/activity_kids_list.xml" value="0.20863616930312098" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.20883534136546184" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_reset_password.xml" value="0.2390625" />
+        <entry key="app/src/main/res/layout/fragment_account.xml" value="0.20863616930312098" />
+        <entry key="app/src/main/res/layout/fragment_donate.xml" value="0.20863616930312098" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.20863616930312098" />
+        <entry key="app/src/main/res/layout/fragment_visit.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/kiditem.xml" value="0.20863616930312098" />
+        <entry key="app/src/main/res/layout/list_donate.xml" value="0.20863616930312098" />
+        <entry key="app/src/main/res/layout/major_kids.xml" value="0.20863616930312098" />
+        <entry key="app/src/main/res/layout/minor.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/orphans.xml" value="0.20863616930312098" />
+        <entry key="app/src/main/res/layout/visit_kid_item.xml" value="0.19709277469003847" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
